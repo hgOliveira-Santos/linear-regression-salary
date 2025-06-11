@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 # Ignorar arquivos de checkpoint do Jupyter Notebook
 .ipynb_checkpoints/
+=======
+# Ignorar arquivos de checkpoint do Jupyter Notebook
+.ipynb_checkpoints/
+>>>>>>> 0ab63c7368f29f7e3786c8c5d61f18e99abf3644
